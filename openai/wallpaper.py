@@ -17,7 +17,7 @@ print(f'img_url: {img_url}')
 
 '''except: 
     response = oi.Image.create(
-        prompt='I love u',
+        prompt='Starry night by Da Vinci',
         n=1,
         size='1024x1024'
     )
