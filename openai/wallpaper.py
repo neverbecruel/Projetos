@@ -1,7 +1,7 @@
 import openai as oi
 
 
-oi.api_key = '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'
+oi.api_key = '********************************'
 
 
 response = oi.Image.create(
