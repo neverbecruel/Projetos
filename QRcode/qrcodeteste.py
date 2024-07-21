@@ -1,6 +1,6 @@
 import qrcode
 
-url = 'https://www.instagram.com/httpx.doc//'  
+url = 'https://www.instagram.com/oieusouojaoo/'  
 
 qr = qrcode.QRCode(
     version=1,
